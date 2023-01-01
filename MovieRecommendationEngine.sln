@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRecommendationEngine", "MovieRecommendationEngine\MovieRecommendationEngine.csproj", "{AE5DFB6F-1C5C-4083-8D3C-0C72018B9185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE5DFB6F-1C5C-4083-8D3C-0C72018B9185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5DFB6F-1C5C-4083-8D3C-0C72018B9185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5DFB6F-1C5C-4083-8D3C-0C72018B9185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5DFB6F-1C5C-4083-8D3C-0C72018B9185}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

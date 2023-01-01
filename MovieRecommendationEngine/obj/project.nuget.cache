@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LehLarTcppSro5QaOatTWjM1jkAzidq0Y2z+vMF/5G4C5FB2rzGUjhtVfZQ75nUSxknJiBNApnsB/hDpdB1Zxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moses\\OneDrive\\Desktop\\DSPS\\3DSPS\\Applied AI\\Project\\MovieRecommendationEngine\\MovieRecommendationEngine\\MovieRecommendationEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moses\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\moses\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\moses\\.nuget\\packages\\tmdblib\\1.9.2\\tmdblib.1.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
